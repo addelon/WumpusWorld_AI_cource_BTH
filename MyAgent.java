@@ -531,7 +531,7 @@ public class MyAgent implements Agent
 
      }
 
-
+        //BLABLABLA
         public void setPercentage(int x, int y, int startX, int startY)//setProb
       {
           float percantage = enterPros();
