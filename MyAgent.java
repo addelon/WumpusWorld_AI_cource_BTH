@@ -544,6 +544,7 @@ public class MyAgent implements Agent
       }
         
         //Testar GIt
+        //Testar ännu mera!!!!!
         public void checkProb(int x, int y)
     {
         this.probability[x-1][y-1]= 0;
